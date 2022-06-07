@@ -1,0 +1,13 @@
+0:image/Autumn_boss.png:8:65:4:4:Grass Pledge,Blud Seed,Mud Bombe,Wood Hammer:itemprop/food/meat,itemprop/armour/axe_0,itemprop/armour/sword_2:20:1:14,16,18,19
+1:image/Winter_boss.png:18:120:4:4:Blizzard,Icicle Crash,Cross chop,Skull Bash:itemprop/food/meat,itemprop/shield/shield_0,itemprop/armour/sword_2:40:1:20,22,26,29
+2:image/Spring_boss.png:28:170:4:4:Take Down,Headbutt,Pound,CrushClaw:itemprop/food/meat,itemprop/food/potion_0,itemprop/armour/axe_1,itemprop/armour/sword_2:60:1:25,30,35,38
+3:image/Cave_boss.png:37:195:4:4:Fire Pledge,Heat Wave,Rock Blast,Rock Throw:itemprop/food/meat,itemprop/food/tabaco,itemprop/food/potion_1,itemprop/shield/shield_1,itemprop/armour/sword_2:80:1:30,33,34,38
+4:image/Final_boss.png:45:255:4:4:Fire Pledge,Grass Pledge,Wind Pledge,Ice Pledge:itemprop/food/potion_1,itemprop/shield/shield_1,itemprop/armour/sword_2:120:1:28,24,30,32
+5:image/enemy_1.png:2:8:4:2:Tackle,Hex:itemprop/food/apple,itemprop/food/apple,itemprop/shield/shield_1:10:0:3,4
+6:image/enemy_2.png:4:12:8:2:Take Down,Beat Up:itemprop/food/apple,itemprop/food/meat,itemprop/shield/shield_1:20:0:7,10
+7:image/enemy_3.png:12:60:14:2:Slash,Headbutt:itemprop/food/meat,itemprop/food/meat,itemprop/shield/shield_2:30:0:16,20
+8:image/enemy_4.png:15:80:11:2:Will-O-Wisp,Blizzard:itemprop/food/meat,itemprop/food/potion_0,itemprop/shield_2:50:0:19,25
+9:image/enemy_5.png:22:100:13:2:Bloodthirst,Struggle Bug:itemprop/food/potion_0,itemprop/food/potion_0,itemprop/armour/shield_3:60:0:19,27
+a:image/enemy_6.png:25:115:19:2:Perish Sound,Nature's Call:itemprop/food/potion_0,itemprop/food/potion_1,itemprop/armour/sword_2:70:0:20,25
+b:image/enemy_7.png:31:125:19:2:Fire Burst,Will of the Flame:itemprop/food/potion_1,itemprop/food/potion_1,itemprop/armour/sword_2:80:0:26,28
+c:image/enemy_8.png:34:150:19:2:Fire Burst,Will of the Flame:itemprop/food/potion_1,itemprop/armour/sword_0,itemprop/armour/sword_2:90:0:27,30

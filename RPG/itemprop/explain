@@ -1,0 +1,10 @@
+file image
+strenth incrementation
+agility incrementation
+health incrementation
+type of object:
+    -weapon = 0
+    -shield = 1
+    -food = 2
+    -hability = 3
+pos sprite inside array(int);

@@ -1,0 +1,5 @@
+1:0:10:15:5:5:5
+5:1:skills/no_deblocked.png,skills/Tackle.png,skills/Take_Down.png,skills/Impact.png,skills/Giga_Impact.png:0,5,10,15,20:none,Tackle,Take_Down,Impact,Giga_Impact
+5:0:skills/no_deblocked.png,skills/Cut.png,skills/Slash.png,skills/Dancing_Blades.png,skills/Rage_Blade.png:0,8,13,18,23:none,Cut,Slash,Dancing_Blades,Rage_Blade
+6:0:skills/no_deblocked.png,skills/Lash_Out.png,skills/Sucker_Punch.png,skills/Malicious_Moonsault.png,skills/Darkest_Lariat.png,skills/Death_Memento.png:0,4,9,17,24,30:none,Lash_Out,Sucker_Punch,Malicious_Moonsault,Darkest_Lariat,Death_Memento
+5:0:skills/no_deblocked.png,skills/Psyshock.png,skills/Apocalypsis_Luminis.png,skills/Heart_Stamp.png,skills/Dream_Eater.png:0,13,15,17,19:none,Psyshock,Apocalypsis_Luminis,Heart_Stamp,Dream_Eater
