@@ -32,4 +32,4 @@
 ![Capture d’écran du 2022-06-07 17-51-55](https://user-images.githubusercontent.com/57271560/172426315-eca7d256-5927-4539-854e-9fb8d032492a.png)
 ![Capture d’écran du 2022-06-07 17-51-33](https://user-images.githubusercontent.com/57271560/172426324-a40fa881-652f-418f-abc7-1f61636efb22.png)
 
-For a better Game play, dont play with saves
+For a better Gameplay, dont play with saves
